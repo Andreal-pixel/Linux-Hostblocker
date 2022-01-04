@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo mkdir /hostbackup
 sudo cp /etc/hosts /hostbackup
 wget https://blocklistproject.github.io/Lists/everything.txt
