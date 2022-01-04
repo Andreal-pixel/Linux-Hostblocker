@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo cd /hostbackup
 sudo rm -f /etc/hosts
 sudo cp hosts /etc
